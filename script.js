@@ -18,7 +18,7 @@ function getFormValues(){
     
 }
 function calculateEarnings(){
-
+    //insert code here
 }
 
 function displayContent() {
